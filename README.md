@@ -1,5 +1,4 @@
 # Personal-Notes-App
-# Personal Notes App
 
 A full-stack notes application for managing personal notes with a clean, intuitive interface.
 
